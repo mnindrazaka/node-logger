@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Learn how to integrate Node.js and Loki",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/node-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/node-logger/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/node-logger#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
